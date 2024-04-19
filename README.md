@@ -1,4 +1,3 @@
-# CQRS
-CQRS Pattern with MediatR and FluentValidation
-Masstransit
-EFCore.BulkExtensions
+CQRS Pattern with MediatR and FluentValidation<br>
+Masstransit<br>
+EFCore.BulkExtensions<br>
